@@ -1,0 +1,38 @@
+button {
+    background-color: rgb(214, 211, 211);
+    color: black;  
+  }
+   button:hover {
+     color: white;
+     }
+
+.jumbotron {
+    background-color: rgb(194, 205, 226);
+}
+.header{
+    /* float: left; */
+    text-align: left;
+    font-family: serif;
+    font-size:large;
+}
+.headers{
+  right: 0px;
+  top: 0px;
+  position: absolute;
+
+
+    /* float: right;
+    position: relative;
+  top: 50%;
+  transform: translateY(-50%); */
+}
+#footer{
+    background-color:rgb(194, 205, 226);
+}
+body{
+  background: url('https://media.cntraveler.com/photos/5b22bfdff04a775484b99dfc/16:9/w_1600%2Cc_limit/Alo-Restaurant__2018_Raffi-Photo-2.jpg')  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+}
