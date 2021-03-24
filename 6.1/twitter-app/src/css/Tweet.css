@@ -1,0 +1,9 @@
+.like-btn {
+    background-image: url(../Images/pngwing.com.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color: transparent;
+    height: 20px;
+    width: 20px;
+    border: none;
+  }
