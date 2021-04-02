@@ -1,0 +1,9 @@
+<h2>Employees</h2>
+<ul class="employees">
+    <li *ngFor="let employee of employees">
+        <span class="badge">{{employee.id}}</span>
+        {{employee.name}} |
+        <i>{{employee.position}}</i>
+        <i>{{employee.phone}}</i>
+    </li>
+</ul>
