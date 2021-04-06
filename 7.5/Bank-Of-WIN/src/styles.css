@@ -1,0 +1,25 @@
+/* Application-wide Styles */
+h1 {
+    color: #ca8d22;
+    font-size: 6vw;
+    text-align: center;
+    font-family: 'Petrona', serif;
+  }
+  h2, h3 {
+    color: #30afb5;
+    font-family: 'Petrona', serif;
+    font-size: 4vw;
+  }
+  body {
+    margin: 2em;
+    background-color: #121888;
+    
+  }
+  body, input[type="text"], button {
+    color: #333;
+    font-family: Cambria, Georgia;
+  }
+  /* everywhere else */
+  * {
+    font-family: Arial, Helvetica, sans-serif;
+  }

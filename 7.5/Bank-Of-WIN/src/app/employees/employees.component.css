@@ -1,0 +1,52 @@
+h2 {
+    text-align: center;
+}
+.employees {
+    margin: auto;
+    list-style-type: none;
+    padding: 0;
+    width: 35em;
+
+}
+.employees li {
+    cursor: pointer;
+    position: relative;
+    left: 0;
+    background-color: #EEE;
+    margin: .5em;
+    /* padding: .3em 0; */
+    height: 1.6em;
+    border-radius: 4px;
+}
+.employees li:hover {
+    color: #ca8d22;
+    background-color: azure;
+    left: .1em;
+    font-size: 17px;
+    transition: .5s;
+}
+.employees li.selected {
+    background-color: #CFD8DC;
+    color: white;
+}
+.employees li.selected:hover {
+    background-color: azure;
+    color: white;
+}
+.employees .badge {
+    display: inline-block;
+    font-size: small;
+    color: white;
+    padding: 0.8em 0.7em 0 0.7em;
+    background-color:#30afb5;
+    line-height: 1em;
+    position: relative;
+    /* left: -1px; */
+    /* top: -4px; */
+    height: 2em;
+    margin-right: .8em;
+    border-radius: 4px 0 0 4px;
+}
+
+
+
