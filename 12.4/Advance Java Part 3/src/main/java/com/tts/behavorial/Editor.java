@@ -1,4 +1,4 @@
-package com.tts.behavorial;
+package com.tts.behavorial.command;
 
 public class Editor {
 }
