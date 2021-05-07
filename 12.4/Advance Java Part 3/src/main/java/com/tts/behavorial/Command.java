@@ -1,4 +1,4 @@
-package com.tts.behavorial.command;
+package com.tts.behavorial;
 
 // code from here: https://refactoring.guru/design-patterns/command/java/example
 

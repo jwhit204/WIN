@@ -9,7 +9,7 @@ public class NotificationFactory {
         }
 
         if ("SMS".equals(channel)) {
-            return new SMSNotfication();
+            return new SMSNotification();
         } else if ("EMAIL".equals(channel)){
             return new EmailNotification();
         } else if ("PUSH".equals(channel)) {

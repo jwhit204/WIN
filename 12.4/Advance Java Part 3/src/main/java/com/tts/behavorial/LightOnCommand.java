@@ -1,4 +1,4 @@
-package com.tts.behavorial.command;
+package com.tts.behavorial;
 
 public class LightOnCommand extends Command {
 
