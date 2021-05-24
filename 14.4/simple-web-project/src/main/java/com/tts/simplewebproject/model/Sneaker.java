@@ -5,7 +5,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-// every class inherits methods from the parent class object
+// every class inherits methods from the parent class Object
 @Entity
 public class Sneaker {
 
@@ -18,7 +18,7 @@ public class Sneaker {
     private Long id;
     private String color;
 
-    public Long getId(){
+    public Long getId() {
         return id;
     }
 
@@ -38,8 +38,7 @@ public class Sneaker {
                 '}';
     }
 
-    public Sneaker(Long id, String color) {
-        this.id = id;
+    public Sneaker(String color) {
         this.color = color;
     }
 
