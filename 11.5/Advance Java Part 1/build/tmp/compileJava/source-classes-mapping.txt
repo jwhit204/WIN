@@ -1,8 +1,0 @@
-com/tts/io/ReadConsole.java
- com.tts.io.ReadConsole
-com/tts/io/CopyFile.java
- com.tts.io.CopyFile
-com/tts/io/Main.java
- com.tts.io.Main
-com/tts/exceptions/Main.java
- com.tts.exceptions.Main
