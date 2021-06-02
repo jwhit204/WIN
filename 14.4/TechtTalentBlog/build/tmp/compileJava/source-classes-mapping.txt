@@ -1,0 +1,12 @@
+com/tts/TechtTalentBlog/model/BlogPost.java
+ com.tts.TechtTalentBlog.model.BlogPost
+com/tts/TechtTalentBlog/service/BlogPostService.java
+ com.tts.TechtTalentBlog.service.BlogPostService
+com/tts/TechtTalentBlog/controller/BlogPostController.java
+ com.tts.TechtTalentBlog.controller.BlogPostController
+com/tts/TechtTalentBlog/TechtTalentBlogApplication.java
+ com.tts.TechtTalentBlog.TechtTalentBlogApplication
+com/tts/TechtTalentBlog/service/BlogPostServiceImpl.java
+ com.tts.TechtTalentBlog.service.BlogPostServiceImpl
+com/tts/TechtTalentBlog/repository/BlogPostRepository.java
+ com.tts.TechtTalentBlog.repository.BlogPostRepository

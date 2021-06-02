@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tts.week13day4.Week13day4Application" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-13T13:38:48" hostname="Jharnas-MBP.attlocal.net" time="0.016">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.tts.week13day4.Week13day4Application" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

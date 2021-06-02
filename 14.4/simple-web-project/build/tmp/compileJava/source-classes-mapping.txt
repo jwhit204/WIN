@@ -1,0 +1,12 @@
+com/tts/simplewebproject/repository/SneakerRepository.java
+ com.tts.simplewebproject.repository.SneakerRepository
+com/tts/simplewebproject/service/SneakerServiceImpl.java
+ com.tts.simplewebproject.service.SneakerServiceImpl
+com/tts/simplewebproject/model/Sneaker.java
+ com.tts.simplewebproject.model.Sneaker
+com/tts/simplewebproject/service/SneakerService.java
+ com.tts.simplewebproject.service.SneakerService
+com/tts/simplewebproject/SimpleWebProjectApplication.java
+ com.tts.simplewebproject.SimpleWebProjectApplication
+com/tts/simplewebproject/controller/SneakerController.java
+ com.tts.simplewebproject.controller.SneakerController
