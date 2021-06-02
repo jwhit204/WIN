@@ -1,4 +1,3 @@
-
 package com.tts.TechTalentTwitter.model;
 
 
